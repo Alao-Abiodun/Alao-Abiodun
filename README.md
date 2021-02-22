@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions on the Backend Stack.
-- 🎓 &nbsp; Studying Computer Science at Federal University Lokoja.
+- 🎓 &nbsp; Studying Computer Science at Federal University Lokoja(Nigeria).
 - 💼 &nbsp; Working as a Freelancer.
 - 🌱 &nbsp; Learning more about DevOps, Cloud Architecture, Systems Design and ML/AI.
 - ✍️ &nbsp; Watching movies as hobbies
