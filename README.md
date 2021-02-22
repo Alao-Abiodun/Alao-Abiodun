@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at Federal University Lokoja.
 - 💼 &nbsp; Working as a Freelancer.
 - 🌱 &nbsp; Learning more about DevOps, Cloud Architecture, Systems Design and ML/AI.
-- ✍️ &nbsp; Pursuing Graphic Design and Watching movies as hobbies/side hustles.
+- ✍️ &nbsp; Watching movies as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
