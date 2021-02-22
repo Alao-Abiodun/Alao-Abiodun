@@ -45,8 +45,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alao-abiodun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alao%20Abiodun%20AbdulRahman-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/alao43844/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:abiodundev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/alao43844/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alao43844-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:abiodundev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abiodundev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AbdulRahman](https://github.com/Alao-Abiodun)
