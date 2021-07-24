@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions on the Backend Stack.
-- 🎓 &nbsp; Studying Computer Science at Federal University Lokoja(Nigeria).
-- 💼 &nbsp; Working as a Freelancer.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions on the Backend Stack(NodeJs).
+- 🎓 &nbsp; Graduated Computer Science at Federal University Lokoja(Nigeria).
+- 💼 &nbsp; Working as a Backend Engineer @Grazac.
 - 🌱 &nbsp; Aspiring about DevOps, Cloud Architecture, Systems Design and ML/AI.
 - ✍️ &nbsp; Watching movies, listening to music as hobbies
 
