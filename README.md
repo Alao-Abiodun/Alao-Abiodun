@@ -5,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions on the Backend Stack.
 - 🎓 &nbsp; Studying Computer Science at Federal University Lokoja(Nigeria).
 - 💼 &nbsp; Working as a Freelancer.
-- 🌱 &nbsp; Learning more about DevOps, Cloud Architecture, Systems Design and ML/AI.
-- ✍️ &nbsp; Watching movies as hobbies
+- 🌱 &nbsp; Aspiring about DevOps, Cloud Architecture, Systems Design and ML/AI.
+- ✍️ &nbsp; Watching movies, listening to music as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
