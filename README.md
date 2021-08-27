@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions on the Backend Stack(NodeJs).
 - 🎓 &nbsp; Graduate Computer Science at Federal University Lokoja(Nigeria).
 - 💼 &nbsp; Working as a Backend Engineer @Grazac.
-- 🌱 &nbsp; Aspiring about DevOps, Cloud Architecture, Systems Design and ML/AI.
+- 🌱 &nbsp; Aspiring about DevOps, Cloud Architecture, Systems Design.
 - ✍️ &nbsp; Watching movies, listening to music as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -14,9 +14,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+<!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
