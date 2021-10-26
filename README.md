@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions on the Backend Stack(NodeJs).
 - 🎓 &nbsp; Graduate Computer Science at Federal University Lokoja(Nigeria).
-- 💼 &nbsp; Working as a Backend Engineer @Grazac.
+- 💼 &nbsp; Working as a Backend Engineer Grazac Technologies.
 - 🌱 &nbsp; Aspiring about DevOps, Cloud Architecture, Systems Design.
 - ✍️ &nbsp; Watching movies, listening to music as hobbies
 
