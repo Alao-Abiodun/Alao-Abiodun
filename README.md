@@ -17,6 +17,7 @@
   ![TypeScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
+  ![graphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
