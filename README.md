@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **More on Devops and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **HealthTech and Fintech**
+- 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**
 
 - 🤝 I’m looking for help with **Opportunities**
 
