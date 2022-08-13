@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alao-abiodun" alt="alao-abiodun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/@abiodundev" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/@abiodundev?logo=twitter&style=for-the-badge" alt="https://twitter.com/@abiodundev" /></a> </p>
-
 - 🌱 I’m currently learning **More on Devops and Cloud Computing**
 
 - 👯 I’m looking to collaborate on **HealthTech and Fintech**
