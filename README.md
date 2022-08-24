@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1HwxdkUcPvcWJdSaZhcnC7gpxOuzdA6QEUlBwWFwJcWA/edit](https://docs.google.com/document/d/1WDpycKfAVf_4ELyit_zOcofPxnyfjAHxSYWPj1Xuovk/edit?usp=sharing)
 
-- ⚡ Fun fact **Always smiling and loves to connect and collaboarate with people.**
+- ⚡ Fun fact **Always smiling and loves to connect and collaborate with people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
