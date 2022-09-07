@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Opportunities**
 
-- 💬 Ask me about **NodeJs, Express, SQL & NoSQL Database and other backend related stuff**
+- 💬 Ask me about **NodeJs, Express, SQL & NoSQL Database and other backend best practices.**
 
 - 📫 How to reach me **alao.abiodun.abdulrahman@gmail.com**
 
