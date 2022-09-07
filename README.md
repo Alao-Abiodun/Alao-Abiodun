@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alao-abiodun" alt="alao-abiodun" /></a> </p>
 
-- 🌱 I’m currently learning **More on Cloud Computing(DevOps)**
+- 🌱 I’m currently learning More on **Cloud Computing(DevOps)**
 
 - 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**
 
