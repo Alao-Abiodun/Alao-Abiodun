@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abiodun Alao</h1>
-<h3 align="center">A backend engineer and Open-Source Contributor from Nigerian</h3>
+<h3 align="center">A backend engineer and open-source contributor from Nigerian</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alao-abiodun&label=Profile%20views&color=0e75b6&style=flat" alt="alao-abiodun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alao-abiodun" alt="alao-abiodun" /></a> </p>
 
-- 🌱 I’m currently learning More on **Cloud Computing(DevOps)**
+- 🌱 I’m currently learning More on **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**
 
