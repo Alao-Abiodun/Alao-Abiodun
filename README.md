@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alao-abiodun" alt="alao-abiodun" /></a> </p>
 
-- 🌱 I’m currently learning More on **Cloud Computing**
+- 🌱 I’m currently learning More on **Cloud Computing**.
 
-- 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**
+- 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**.
 
-- 🤝 I’m looking for help with **Opportunities**
+- 🤝 I’m looking for help with **Opportunities**.
 
-- 💬 Ask me about **NodeJs, Express, SQL & NoSQL Database and other backend best practices.**
+- 💬 Ask me about **NodeJs, Express, SQL & NoSQL Database and other backend best practices**.
 
-- 📫 How to reach me **alao.abiodun.abdulrahman@gmail.com**
+- 📫 How to reach me **alao.abiodun.abdulrahman@gmail.com**.
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1HwxdkUcPvcWJdSaZhcnC7gpxOuzdA6QEUlBwWFwJcWA/edit](https://docs.google.com/document/d/1WDpycKfAVf_4ELyit_zOcofPxnyfjAHxSYWPj1Xuovk/edit?usp=sharing)
 
-- ⚡ Fun fact **Always smiling and loves to connect and collaborate with people.**
+- ⚡ Fun fact **Always smiling and loves to connect and collaborate with people**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
