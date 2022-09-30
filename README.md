@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abiodun Alao (a.k.a AfricanDev)</h1>
+<h1 align="center">Hi 👋, I'm Abiodun Alao (AfricanDev)</h1>
 <h3 align="center">A backend engineer from Nigerian and open-source contributor.</h3>
 
 
