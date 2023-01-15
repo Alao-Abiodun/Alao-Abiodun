@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiodun Alao AbdulRahman</h1>
-<h3 align="center">A Backend Engineer from Nigerian, open-source contributor and looking for more opportunities.</h3>
+<h3 align="center">A Backend Engineer from Nigerian, open-source contributor and technical writer. Let's connect and help eachother</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alao-abiodun&label=Profile%20views&color=0e75b6&style=flat" alt="alao-abiodun" /> </p>
