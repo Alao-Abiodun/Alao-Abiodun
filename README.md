@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abiodun Alao AbdulRahman</h1>
+<h1 align="center">Hi 👋, I'm Abiodun Alao A.K.A AfricanDev</h1>
 <h3 align="center">A Backend Engineer from Nigerian, technical writer and open-source contributor. Let's connect.</h3>
 
 
