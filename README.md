@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abiodun Alao AbdulRahman</h1>
+<h1 align="left">Hi 👋 </h1>
 <h3 align="center">A Backend Engineer from Nigerian, Technical Writer, and OS Contributor.<h3>
 
+<p align="left">⚡ About Me: My name is Abiodun. A Backend software engineer with 3+ years managing all aspects of the development process from startups to medium-sized companies. Currently, working as a Backend Engineer at AbInbev. Prior to that.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alao-abiodun&label=Profile%20views&color=0e75b6&style=flat" alt="alao-abiodun" /> </p>
 
