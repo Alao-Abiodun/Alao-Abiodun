@@ -18,7 +18,7 @@
 
 <h5>- 😄 Pronouns: He/Him/His</h5>
 
-<h5 align="left">Connect on these socials:</h5>
+<h5 align="left">Connect with me on my socials:</h5>
 <h5 align="left">
 <a href="https://twitter.com/https://twitter.com/@abiodundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/@abiodundev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alao-abiodun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alao-abiodun/" height="30" width="40" /></a>
