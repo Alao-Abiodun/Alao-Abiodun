@@ -1,4 +1,4 @@
-<h4 align="left">Hi there 👋 </h4>
+<h4 align="left">Hi there 👋</h4>
 
 <h5 align="left">⚡ About Me: My name is Abiodun. A Backend software engineer with 4+ years managing all aspects of the development process from startups to medium-sized companies. Currently, working as a Backend Engineer at AbInbev.</h5>
 
