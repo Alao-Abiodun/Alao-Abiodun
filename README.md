@@ -2,7 +2,7 @@
 
 <h5 align="left">⚡ About Me: My name is Abiodun Alao. A backend software engineer with 3 years managing all aspects of the development process from startups to medium-sized companies. Currently, working as a Backend Engineer at AbInbev.</h5>
 
-<h5 align="left">I love working with Node.js, TypeScript, GoLang, MySql, MongoDB, MSSQL, etc.</h5>
+<h5 align="left">I love working with Node.js,JavaScript(TypeScript), GoLang, MySql, MongoDB, MSSQL, etc.</h5>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alao-abiodun&show_icons=true&locale=en" alt="alao-abiodun" /></p>
 
