@@ -1,6 +1,6 @@
 <h4 align="left">Hi there 👋</h4>
 
-<h5 align="left">⚡ About Me: My name is Abiodun Alao. A backend software engineer with 4 years of managing all aspects of the development process from startups to medium-sized and large companies. Currently, working as a Backend Engineer at AbInbev.</h5>
+<h5 align="left">⚡ About Me: My name is Abiodun Alao. A backend software engineer with 4 years of managing all aspects of the development strategies from startups to medium-sized and large companies. Currently, working as a Backend Engineer at AbInbev.</h5>
 
 <h5 align="left">I love working with Node.js,JavaScript(TypeScript), GoLang, MySql, MongoDB, MSSQL, etc.</h5>
 
