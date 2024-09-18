@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alao-abiodun&show_icons=true&locale=en" alt="alao-abiodun" /></p>
 
-<h5> - 🌱 I’m currently working on an interesting HealthTech product.</h5>
+<h5> - 🌱 I’m currently working on an interesting challenging product.</h5>
 
 <h5> - 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**.</h5>
 
