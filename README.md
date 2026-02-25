@@ -10,7 +10,7 @@
 
 <h5> - 👯 I’m looking to collaborate on **HealthTech, Fintech, EdTech and E-commerce products**.</h5>
 
-<h5> - 📄 [Know about my experiences](https://docs.google.com/document/d/1f3t5HkYfGNZJKOt9roJCnyWfND2cTl17CZiq_55ZU-0/edit).</h5>
+<h5> - 📄 [Know about my experiences](https://docs.google.com/document/d/1HeBd1VeIw7rzz53FFyryUJnpt2sDdfaw/edit#heading=h.gjdgxs).</h5>
 
 <h5> - ⚡ Fun fact **Always smiling and loves connecting, collaborating with people, cooking, and contributing to the community**.</h5>
 
